@@ -2,4 +2,4 @@
 
 Peter: file X used for script.
 
-Looking for solution to link github with Google Colab
+Looking for a way to import data files in Google Colab
