@@ -25,6 +25,8 @@ https://drive.google.com/file/d/1q2bbhhYas8ZCw9jRE09GprjxpOD0mU6r/view?usp=shari
 
 3. Tensorflow trainings have been performed with GPU or TPU accelerations. In extreme cases, RAM + VRAM usages can be up to 24GB on local machine.
 
+4. Cosine Similarities 
+https://medium.com/the-artificial-impostor/preview-developing-modern-chinese-nlp-models-60d4774ebfa7
 
 
 
