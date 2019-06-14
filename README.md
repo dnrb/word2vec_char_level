@@ -54,5 +54,3 @@ https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-
 
 https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d
 
-
-The Chinese corpus after preprocessed from Chinese wiki-dump is available at https://drive.google.com/file/d/1q2bbhhYas8ZCw9jRE09GprjxpOD0mU6r/view?usp=sharing
